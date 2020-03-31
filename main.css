@@ -1,11 +1,15 @@
-h1 {
+h1 {    /*my name*/
     font-size: larger;
     font-weight: bolder;
 }
 
-.contact-info {
+#contact-info {
     font-size: large;
     text-align: center;
+}
+
+.job-dates {
+    text-align: right;
 }
 
 h2 {
