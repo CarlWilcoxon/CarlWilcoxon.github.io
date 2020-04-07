@@ -3,6 +3,11 @@ h1 {    /*my name*/
     font-weight: bolder;
 }
 
+#container {
+    max-width: 800px;
+    margin: 10px auto 20px;
+}
+
 #contact-info {
     font-size: large;
     text-align: center;
