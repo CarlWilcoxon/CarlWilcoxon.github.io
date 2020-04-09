@@ -1,11 +1,21 @@
 h1 {    /*my name*/
-    font-size: larger;
+    font-size: 36px;
     font-weight: bolder;
 }
 
 #container {
     max-width: 800px;
     margin: 10px auto 20px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+    background-color: lightgrey;
+    padding: 20px 100px 20px 100px;
+    border-radius: 20px;
+}
+
+#profile {
+    font-size: larger;
 }
 
 #contact-info {
@@ -14,7 +24,7 @@ h1 {    /*my name*/
 }
 
 .job-dates {
-    text-align: right;
+    float: right;
 }
 
 h2 {
