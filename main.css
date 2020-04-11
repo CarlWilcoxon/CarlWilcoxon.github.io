@@ -23,14 +23,13 @@ h1 {    /*my name*/
     text-align: center;
 }
 
-.job-dates {
+.job-dates {    /*Used float to make the dates be in-line with the locations on the left*/
     float: right;
 }
 
-h2 {
+h2 {    /* To make the headers stand out a bit more*/
     font-size: larger;
     font-style: italic;
-    /* To make the headers stand out a bit more*/
 }
 
 
